@@ -1,3 +1,124 @@
-11:36:25 - INFO - Clicked on Practice menu
-11:36:26 - INFO - Clicked on Login link
-11:36:28 - INFO - Clicked on Submit button
+2026-05-20 15:38:44 - INFO - [conftest] - 
+################################################################################
+2026-05-20 15:38:44 - INFO - [conftest] - TEST STARTED: test_open_website
+2026-05-20 15:38:44 - INFO - [conftest] - ################################################################################
+2026-05-20 15:38:45 - INFO - [conftest] - ================================================================================
+2026-05-20 15:38:45 - INFO - [conftest] - Starting WebDriver initialization
+2026-05-20 15:38:51 - INFO - [conftest] - WebDriver initialized and page loaded: https://omayo.blogspot.com/
+2026-05-20 15:38:51 - INFO - [conftest] - ================================================================================
+2026-05-20 15:38:51 - INFO - [conftest] - [SETUP] Setting up test: test_open_website
+2026-05-20 15:38:51 - INFO - [conftest] - [EXECUTION] Test passed: test_open_website
+2026-05-20 15:38:51 - INFO - [conftest] - ✅ TEST PASSED: tests/test_ok.py::test_open_website
+2026-05-20 15:38:51 - INFO - [conftest] - ================================================================================
+2026-05-20 15:38:51 - INFO - [conftest] - Closing WebDriver
+2026-05-20 15:38:54 - INFO - [conftest] - WebDriver closed successfully
+2026-05-20 15:38:54 - INFO - [conftest] - ================================================================================
+2026-05-20 15:38:54 - INFO - [conftest] - [TEARDOWN] Tearing down test: test_open_website
+2026-05-20 15:38:54 - INFO - [conftest] - ********************************************************************************
+
+2026-05-20 15:38:54 - INFO - [conftest] - 
+################################################################################
+2026-05-20 15:38:54 - INFO - [conftest] - TEST STARTED: test_verify_page_one
+2026-05-20 15:38:54 - INFO - [conftest] - ################################################################################
+2026-05-20 15:38:54 - INFO - [conftest] - ================================================================================
+2026-05-20 15:38:54 - INFO - [conftest] - Starting WebDriver initialization
+2026-05-20 15:39:02 - INFO - [conftest] - WebDriver initialized and page loaded: https://omayo.blogspot.com/
+2026-05-20 15:39:02 - INFO - [conftest] - ================================================================================
+2026-05-20 15:39:02 - INFO - [conftest] - [SETUP] Setting up test: test_verify_page_one
+2026-05-20 15:39:02 - INFO - [tests.test_ok] - Page One is displayed
+2026-05-20 15:39:02 - INFO - [conftest] - [EXECUTION] Test passed: test_verify_page_one
+2026-05-20 15:39:02 - INFO - [conftest] - ✅ TEST PASSED: tests/test_ok.py::test_verify_page_one
+2026-05-20 15:39:02 - INFO - [conftest] - ================================================================================
+2026-05-20 15:39:02 - INFO - [conftest] - Closing WebDriver
+2026-05-20 15:39:04 - INFO - [conftest] - WebDriver closed successfully
+2026-05-20 15:39:04 - INFO - [conftest] - ================================================================================
+2026-05-20 15:39:04 - INFO - [conftest] - [TEARDOWN] Tearing down test: test_verify_page_one
+2026-05-20 15:39:04 - INFO - [conftest] - ********************************************************************************
+
+2026-05-20 15:39:04 - INFO - [conftest] - 
+################################################################################
+2026-05-20 15:39:04 - INFO - [conftest] - TEST STARTED: test_verify_older_news_letter
+2026-05-20 15:39:04 - INFO - [conftest] - ################################################################################
+2026-05-20 15:39:04 - INFO - [conftest] - ================================================================================
+2026-05-20 15:39:04 - INFO - [conftest] - Starting WebDriver initialization
+2026-05-20 15:39:13 - INFO - [conftest] - WebDriver initialized and page loaded: https://omayo.blogspot.com/
+2026-05-20 15:39:13 - INFO - [conftest] - ================================================================================
+2026-05-20 15:39:13 - INFO - [conftest] - [SETUP] Setting up test: test_verify_older_news_letter
+2026-05-20 15:39:13 - INFO - [tests.test_ok] - Older News Letter dropdown is displayed
+2026-05-20 15:39:13 - INFO - [conftest] - [EXECUTION] Test passed: test_verify_older_news_letter
+2026-05-20 15:39:13 - INFO - [conftest] - ✅ TEST PASSED: tests/test_ok.py::test_verify_older_news_letter
+2026-05-20 15:39:13 - INFO - [conftest] - ================================================================================
+2026-05-20 15:39:13 - INFO - [conftest] - Closing WebDriver
+2026-05-20 15:39:15 - INFO - [conftest] - WebDriver closed successfully
+2026-05-20 15:39:15 - INFO - [conftest] - ================================================================================
+2026-05-20 15:39:15 - INFO - [conftest] - [TEARDOWN] Tearing down test: test_verify_older_news_letter
+2026-05-20 15:39:15 - INFO - [conftest] - ********************************************************************************
+
+2026-05-20 15:39:15 - INFO - [conftest] - 
+################################################################################
+2026-05-20 15:39:15 - INFO - [conftest] - TEST STARTED: test_verify_multiple_selection_audix
+2026-05-20 15:39:15 - INFO - [conftest] - ################################################################################
+2026-05-20 15:39:15 - INFO - [conftest] - ================================================================================
+2026-05-20 15:39:15 - INFO - [conftest] - Starting WebDriver initialization
+2026-05-20 15:39:23 - INFO - [conftest] - WebDriver initialized and page loaded: https://omayo.blogspot.com/
+2026-05-20 15:39:23 - INFO - [conftest] - ================================================================================
+2026-05-20 15:39:23 - INFO - [conftest] - [SETUP] Setting up test: test_verify_multiple_selection_audix
+2026-05-20 15:39:23 - INFO - [tests.test_ok] - Selected Audix option from dropdown
+2026-05-20 15:39:23 - INFO - [tests.test_ok] - Selected Volvox option from dropdown
+2026-05-20 15:39:27 - INFO - [conftest] - [EXECUTION] Test passed: test_verify_multiple_selection_audix
+2026-05-20 15:39:27 - INFO - [conftest] - ✅ TEST PASSED: tests/test_ok.py::test_verify_multiple_selection_audix
+2026-05-20 15:39:27 - INFO - [conftest] - ================================================================================
+2026-05-20 15:39:27 - INFO - [conftest] - Closing WebDriver
+2026-05-20 15:39:29 - INFO - [conftest] - WebDriver closed successfully
+2026-05-20 15:39:29 - INFO - [conftest] - ================================================================================
+2026-05-20 15:39:29 - INFO - [conftest] - [TEARDOWN] Tearing down test: test_verify_multiple_selection_audix
+2026-05-20 15:39:29 - INFO - [conftest] - ********************************************************************************
+
+2026-05-20 15:39:29 - INFO - [conftest] - 
+################################################################################
+2026-05-20 15:39:29 - INFO - [conftest] - TEST STARTED: test_dropdown
+2026-05-20 15:39:29 - INFO - [conftest] - ################################################################################
+2026-05-20 15:39:29 - INFO - [conftest] - ================================================================================
+2026-05-20 15:39:29 - INFO - [conftest] - Starting WebDriver initialization
+2026-05-20 15:39:36 - INFO - [conftest] - WebDriver initialized and page loaded: https://omayo.blogspot.com/
+2026-05-20 15:39:36 - INFO - [conftest] - ================================================================================
+2026-05-20 15:39:36 - INFO - [conftest] - [SETUP] Setting up test: test_dropdown
+2026-05-20 15:39:36 - INFO - [tests.test_ok] - Clicked on Older News Letter dropdown
+2026-05-20 15:39:37 - INFO - [tests.test_ok] - doc 1 selected successfully
+2026-05-20 15:39:37 - INFO - [tests.test_ok] - doc 2 selected successfully
+2026-05-20 15:39:37 - INFO - [tests.test_ok] - doc 3 selected successfully
+2026-05-20 15:39:37 - INFO - [tests.test_ok] - doc 4 selected successfully
+2026-05-20 15:39:37 - INFO - [conftest] - [EXECUTION] Test passed: test_dropdown
+2026-05-20 15:39:37 - INFO - [conftest] - ✅ TEST PASSED: tests/test_ok.py::test_dropdown
+2026-05-20 15:39:37 - INFO - [conftest] - ================================================================================
+2026-05-20 15:39:37 - INFO - [conftest] - Closing WebDriver
+2026-05-20 15:39:40 - INFO - [conftest] - WebDriver closed successfully
+2026-05-20 15:39:40 - INFO - [conftest] - ================================================================================
+2026-05-20 15:39:40 - INFO - [conftest] - [TEARDOWN] Tearing down test: test_dropdown
+2026-05-20 15:39:40 - INFO - [conftest] - ********************************************************************************
+
+2026-05-20 15:39:40 - INFO - [conftest] - 
+################################################################################
+2026-05-20 15:39:40 - INFO - [conftest] - TEST STARTED: test_text_area_field
+2026-05-20 15:39:40 - INFO - [conftest] - ################################################################################
+2026-05-20 15:39:40 - INFO - [conftest] - ================================================================================
+2026-05-20 15:39:40 - INFO - [conftest] - Starting WebDriver initialization
+2026-05-20 15:39:48 - INFO - [conftest] - WebDriver initialized and page loaded: https://omayo.blogspot.com/
+2026-05-20 15:39:48 - INFO - [conftest] - ================================================================================
+2026-05-20 15:39:48 - INFO - [conftest] - [SETUP] Setting up test: test_text_area_field
+2026-05-20 15:39:48 - INFO - [tests.test_ok] - Entered text in Text Area Field
+2026-05-20 15:39:48 - INFO - [conftest] - [EXECUTION] Test passed: test_text_area_field
+2026-05-20 15:39:48 - INFO - [conftest] - ✅ TEST PASSED: tests/test_ok.py::test_text_area_field
+2026-05-20 15:39:48 - INFO - [conftest] - ================================================================================
+2026-05-20 15:39:48 - INFO - [conftest] - Closing WebDriver
+2026-05-20 15:39:51 - INFO - [conftest] - WebDriver closed successfully
+2026-05-20 15:39:51 - INFO - [conftest] - ================================================================================
+2026-05-20 15:39:51 - INFO - [conftest] - 
+================================================================================
+2026-05-20 15:39:51 - INFO - [conftest] - TEST SESSION COMPLETED
+2026-05-20 15:39:51 - INFO - [conftest] - Log file saved at: D:\Automation\UI_automation_project\blogspot\logs\test_log_20260520_153844.log
+2026-05-20 15:39:51 - INFO - [conftest] - ================================================================================
+
+2026-05-20 15:39:51 - INFO - [conftest] - [TEARDOWN] Tearing down test: test_text_area_field
+2026-05-20 15:39:51 - INFO - [conftest] - ********************************************************************************
+

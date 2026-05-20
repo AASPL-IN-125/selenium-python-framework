@@ -1,0 +1,119 @@
+2026-05-20 15:38:44,466 - conftest - INFO - HTML Report will be generated at: D:\Automation\UI_automation_project\blogspot\reports\test_report_20260520_153844.html
+2026-05-20 15:38:44,857 - conftest - INFO - 
+################################################################################
+2026-05-20 15:38:44,858 - conftest - INFO - TEST STARTED: test_open_website
+2026-05-20 15:38:44,858 - conftest - INFO - ################################################################################
+2026-05-20 15:38:45,090 - conftest - INFO - ================================================================================
+2026-05-20 15:38:45,091 - conftest - INFO - Starting WebDriver initialization
+2026-05-20 15:38:51,837 - conftest - INFO - WebDriver initialized and page loaded: https://omayo.blogspot.com/
+2026-05-20 15:38:51,838 - conftest - INFO - ================================================================================
+2026-05-20 15:38:51,839 - conftest - INFO - [SETUP] Setting up test: test_open_website
+2026-05-20 15:38:51,859 - conftest - INFO - [EXECUTION] Test passed: test_open_website
+2026-05-20 15:38:51,901 - conftest - INFO - ================================================================================
+2026-05-20 15:38:51,904 - conftest - INFO - Closing WebDriver
+2026-05-20 15:38:54,299 - conftest - INFO - WebDriver closed successfully
+2026-05-20 15:38:54,300 - conftest - INFO - ================================================================================
+2026-05-20 15:38:54,301 - conftest - INFO - [TEARDOWN] Tearing down test: test_open_website
+2026-05-20 15:38:54,302 - conftest - INFO - ********************************************************************************
+
+2026-05-20 15:38:54,304 - conftest - INFO - 
+################################################################################
+2026-05-20 15:38:54,305 - conftest - INFO - TEST STARTED: test_verify_page_one
+2026-05-20 15:38:54,305 - conftest - INFO - ################################################################################
+2026-05-20 15:38:54,306 - conftest - INFO - ================================================================================
+2026-05-20 15:38:54,306 - conftest - INFO - Starting WebDriver initialization
+2026-05-20 15:39:02,344 - conftest - INFO - WebDriver initialized and page loaded: https://omayo.blogspot.com/
+2026-05-20 15:39:02,348 - conftest - INFO - ================================================================================
+2026-05-20 15:39:02,350 - conftest - INFO - [SETUP] Setting up test: test_verify_page_one
+2026-05-20 15:39:02,406 - tests.test_ok - INFO - Page One is displayed
+2026-05-20 15:39:02,533 - conftest - INFO - [EXECUTION] Test passed: test_verify_page_one
+2026-05-20 15:39:02,538 - conftest - INFO - ================================================================================
+2026-05-20 15:39:02,538 - conftest - INFO - Closing WebDriver
+2026-05-20 15:39:04,886 - conftest - INFO - WebDriver closed successfully
+2026-05-20 15:39:04,887 - conftest - INFO - ================================================================================
+2026-05-20 15:39:04,889 - conftest - INFO - [TEARDOWN] Tearing down test: test_verify_page_one
+2026-05-20 15:39:04,890 - conftest - INFO - ********************************************************************************
+
+2026-05-20 15:39:04,892 - conftest - INFO - 
+################################################################################
+2026-05-20 15:39:04,893 - conftest - INFO - TEST STARTED: test_verify_older_news_letter
+2026-05-20 15:39:04,894 - conftest - INFO - ################################################################################
+2026-05-20 15:39:04,895 - conftest - INFO - ================================================================================
+2026-05-20 15:39:04,895 - conftest - INFO - Starting WebDriver initialization
+2026-05-20 15:39:13,304 - conftest - INFO - WebDriver initialized and page loaded: https://omayo.blogspot.com/
+2026-05-20 15:39:13,305 - conftest - INFO - ================================================================================
+2026-05-20 15:39:13,306 - conftest - INFO - [SETUP] Setting up test: test_verify_older_news_letter
+2026-05-20 15:39:13,357 - tests.test_ok - INFO - Older News Letter dropdown is displayed
+2026-05-20 15:39:13,522 - conftest - INFO - [EXECUTION] Test passed: test_verify_older_news_letter
+2026-05-20 15:39:13,527 - conftest - INFO - ================================================================================
+2026-05-20 15:39:13,529 - conftest - INFO - Closing WebDriver
+2026-05-20 15:39:15,859 - conftest - INFO - WebDriver closed successfully
+2026-05-20 15:39:15,860 - conftest - INFO - ================================================================================
+2026-05-20 15:39:15,862 - conftest - INFO - [TEARDOWN] Tearing down test: test_verify_older_news_letter
+2026-05-20 15:39:15,863 - conftest - INFO - ********************************************************************************
+
+2026-05-20 15:39:15,866 - conftest - INFO - 
+################################################################################
+2026-05-20 15:39:15,867 - conftest - INFO - TEST STARTED: test_verify_multiple_selection_audix
+2026-05-20 15:39:15,868 - conftest - INFO - ################################################################################
+2026-05-20 15:39:15,870 - conftest - INFO - ================================================================================
+2026-05-20 15:39:15,870 - conftest - INFO - Starting WebDriver initialization
+2026-05-20 15:39:23,589 - conftest - INFO - WebDriver initialized and page loaded: https://omayo.blogspot.com/
+2026-05-20 15:39:23,590 - conftest - INFO - ================================================================================
+2026-05-20 15:39:23,590 - conftest - INFO - [SETUP] Setting up test: test_verify_multiple_selection_audix
+2026-05-20 15:39:23,680 - tests.test_ok - INFO - Selected Audix option from dropdown
+2026-05-20 15:39:23,893 - tests.test_ok - INFO - Selected Volvox option from dropdown
+2026-05-20 15:39:27,027 - conftest - INFO - [EXECUTION] Test passed: test_verify_multiple_selection_audix
+2026-05-20 15:39:27,035 - conftest - INFO - ================================================================================
+2026-05-20 15:39:27,036 - conftest - INFO - Closing WebDriver
+2026-05-20 15:39:29,369 - conftest - INFO - WebDriver closed successfully
+2026-05-20 15:39:29,369 - conftest - INFO - ================================================================================
+2026-05-20 15:39:29,370 - conftest - INFO - [TEARDOWN] Tearing down test: test_verify_multiple_selection_audix
+2026-05-20 15:39:29,371 - conftest - INFO - ********************************************************************************
+
+2026-05-20 15:39:29,374 - conftest - INFO - 
+################################################################################
+2026-05-20 15:39:29,375 - conftest - INFO - TEST STARTED: test_dropdown
+2026-05-20 15:39:29,376 - conftest - INFO - ################################################################################
+2026-05-20 15:39:29,377 - conftest - INFO - ================================================================================
+2026-05-20 15:39:29,377 - conftest - INFO - Starting WebDriver initialization
+2026-05-20 15:39:36,595 - conftest - INFO - WebDriver initialized and page loaded: https://omayo.blogspot.com/
+2026-05-20 15:39:36,601 - conftest - INFO - ================================================================================
+2026-05-20 15:39:36,604 - conftest - INFO - [SETUP] Setting up test: test_dropdown
+2026-05-20 15:39:36,652 - tests.test_ok - INFO - Clicked on Older News Letter dropdown
+2026-05-20 15:39:37,068 - tests.test_ok - INFO - doc 1 selected successfully
+2026-05-20 15:39:37,311 - tests.test_ok - INFO - doc 2 selected successfully
+2026-05-20 15:39:37,543 - tests.test_ok - INFO - doc 3 selected successfully
+2026-05-20 15:39:37,833 - tests.test_ok - INFO - doc 4 selected successfully
+2026-05-20 15:39:37,834 - conftest - INFO - [EXECUTION] Test passed: test_dropdown
+2026-05-20 15:39:37,841 - conftest - INFO - ================================================================================
+2026-05-20 15:39:37,842 - conftest - INFO - Closing WebDriver
+2026-05-20 15:39:40,362 - conftest - INFO - WebDriver closed successfully
+2026-05-20 15:39:40,363 - conftest - INFO - ================================================================================
+2026-05-20 15:39:40,363 - conftest - INFO - [TEARDOWN] Tearing down test: test_dropdown
+2026-05-20 15:39:40,364 - conftest - INFO - ********************************************************************************
+
+2026-05-20 15:39:40,366 - conftest - INFO - 
+################################################################################
+2026-05-20 15:39:40,367 - conftest - INFO - TEST STARTED: test_text_area_field
+2026-05-20 15:39:40,367 - conftest - INFO - ################################################################################
+2026-05-20 15:39:40,368 - conftest - INFO - ================================================================================
+2026-05-20 15:39:40,368 - conftest - INFO - Starting WebDriver initialization
+2026-05-20 15:39:48,441 - conftest - INFO - WebDriver initialized and page loaded: https://omayo.blogspot.com/
+2026-05-20 15:39:48,441 - conftest - INFO - ================================================================================
+2026-05-20 15:39:48,442 - conftest - INFO - [SETUP] Setting up test: test_text_area_field
+2026-05-20 15:39:48,835 - tests.test_ok - INFO - Entered text in Text Area Field
+2026-05-20 15:39:48,987 - conftest - INFO - [EXECUTION] Test passed: test_text_area_field
+2026-05-20 15:39:48,993 - conftest - INFO - ================================================================================
+2026-05-20 15:39:48,994 - conftest - INFO - Closing WebDriver
+2026-05-20 15:39:51,451 - conftest - INFO - WebDriver closed successfully
+2026-05-20 15:39:51,452 - conftest - INFO - ================================================================================
+2026-05-20 15:39:51,452 - conftest - INFO - 
+================================================================================
+2026-05-20 15:39:51,453 - conftest - INFO - TEST SESSION COMPLETED
+2026-05-20 15:39:51,454 - conftest - INFO - Log file saved at: D:\Automation\UI_automation_project\blogspot\logs\test_log_20260520_153844.log
+2026-05-20 15:39:51,455 - conftest - INFO - ================================================================================
+
+2026-05-20 15:39:51,456 - conftest - INFO - [TEARDOWN] Tearing down test: test_text_area_field
+2026-05-20 15:39:51,457 - conftest - INFO - ********************************************************************************
+
