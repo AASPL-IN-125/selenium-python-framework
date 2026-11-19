@@ -14,6 +14,13 @@ logger = logging.getLogger(__name__)
 # USERNAME = get_config("LOGIN", "username")
 # PASSWORD = get_config("LOGIN", "password")
 
+OMAYO_URL = "https://omayo.blogspot.com/"
+
+
+@pytest.fixture(autouse=True)
+def open_omayo(driver):
+    driver.get(OMAYO_URL)
+
 def test_open_website(driver):
     print("Title of the page is: ", driver.title)
     assert "omayo (QAFox.com)" in driver.title
