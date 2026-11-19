@@ -5,6 +5,7 @@ from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
+from utils.config_reader import get_base_url
 
 
 # Configure logging
@@ -32,9 +33,8 @@ def driver():
     logger.info("=" * 80)
     logger.info("Starting WebDriver initialization")
     driver = webdriver.Chrome()
-    driver.get("https://omayo.blogspot.com/")
     driver.maximize_window()
-    logger.info("WebDriver initialized and page loaded: https://omayo.blogspot.com/")
+    logger.info("WebDriver initialized")
     logger.info("=" * 80)
     
     yield driver
@@ -44,6 +44,14 @@ def driver():
     driver.quit()
     logger.info("WebDriver closed successfully")
     logger.info("=" * 80)
+
+
+@pytest.fixture
+def base_url():
+    """
+    Base URL of the application under test, read from config/config.ini
+    """
+    return get_base_url()
 
 
 @pytest.hookimpl(tryfirst=True)
