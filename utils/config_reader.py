@@ -11,3 +11,9 @@ def get_config(section, key):
 
 def get_base_url():
     return get_config("DEFAULT", "base_url")
+
+def get_username():
+    return get_config("LOGIN", "username")
+
+def get_password():
+    return get_config("LOGIN", "password")
